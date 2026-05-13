@@ -11,3 +11,6 @@ print("Result:", result)
 
 data = helpers2.getData()
 print("Data:", data)
+
+data_animals = helpers2.getRandomizeDataAnimals()
+print("Random Animal:", data_animals)
